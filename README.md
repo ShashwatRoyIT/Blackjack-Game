@@ -1,4 +1,4 @@
-->Learn JavaScript
+Learn JavaScript
 ->Basic JS Programs.
 ->Beginner Friendly.
 ->Few projects that brush-up js basics.
